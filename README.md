@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Roy Chen Logo.png" alt="Project Logo" width="200">
+<iframe src="https://giphy.com/embed/ECRJNVptDbmwQc3Vku" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ECRJNVptDbmwQc3Vku">via GIPHY</a></p>
   <h1>🌟Gender Prediction from Text🌟<br/> 🕵️‍♀️🕵️‍♂️</h1>
   <p>Predicting gender based on text using machine learning models.</p>
 </div>
