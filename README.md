@@ -38,6 +38,7 @@ This is my final project in the machine learning course.
 
 ## Results
 📊 The model's performance is evaluated using the F1-score. The F1-score is calculated for both male and female classes, and the average F1-score is computed to provide an overall assessment of the model's effectiveness.
+The best model we tested is the Perceptron , with F1 score of 0.73
 
 ## Getting Started
 To get started with the project, follow these steps:
