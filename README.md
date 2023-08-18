@@ -37,7 +37,9 @@ This is my final project in the machine learning course.
 - The data is provided in CSV format for training and testing
 
 ## Results
-📊 The model's performance is evaluated using the F1-score. The F1-score is calculated for both male and female classes, and the average F1-score is computed to provide an overall assessment of the model's effectiveness.
+📊 The model's performance is evaluated using the F1-score.<br/>
+The F1-score is calculated for both male and female classes, and the average F1-score is computed to<br/>
+provide an overall assessment of the model's effectiveness.<br/>
 The best model we tested is the Perceptron , with F1 score of 0.73
 
 ## Getting Started
