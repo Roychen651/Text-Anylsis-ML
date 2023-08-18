@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="Roy Chen Logo" >
+  <img src="Roy Chen Logo.png" alt="Project Logo" width="200">
+  
   <h1>🌟Gender Prediction from Text🌟<br/> 🕵️‍♀️🕵️‍♂️</h1>
   <p>Predicting gender based on text using machine learning models.</p>
 </div>
