@@ -16,7 +16,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## About Us
+## About Me
 👨🏽‍💻 Roy Chen,
 Third year Computer Science students at H.I.T.,
 I really like Python, I have a passion for experimenting with new things and interesting technologies.
